@@ -57,7 +57,7 @@ body{
 
 /* Hero card */
 .hero-card{background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));border-radius:var(--radius);padding:1rem;box-shadow:0 12px 30px rgba(2,6,23,0.6);text-align:center}
-.hero-card img{width:100%;border-radius:8px;display:block}
+.hero-card img{width:100%;border-radius:8px;display:block;visibility: visible;}
 .hero-card-meta{margin-top:.75rem;color:var(--muted)}
 .link-resume{display:inline-block;margin-top:.5rem;color:var(--accent);text-decoration:none}
 
